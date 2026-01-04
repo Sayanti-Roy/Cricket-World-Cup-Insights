@@ -4,7 +4,7 @@
 This project analyzes historical Cricket World Cup data to identify performance trends, player statistics, and venue insights. The final output is an interactive Google Looker Studio Dashboard.
 
 ## 🔗 Live Dashboard
-**[👉 Click Here to View the Interactive Dashboard](https://lookerstudio.google.com/reporting/34fb28ba-f78d-4297-ac21-a3d32feff598)**
+**[👉 Click Here to View the Interactive Dashboard]([https://lookerstudio.google.com/reporting/34fb28ba-f78d-4297-ac21-a3d32feff598](https://lookerstudio.google.com/reporting/0f7eaa55-db3a-4080-b286-4574e94c6054))**
 
 *(If the link above does not work, please ensure you are logged into a Google account)*
 
@@ -27,4 +27,5 @@ The dataset was generated using Python to simulate historical match data from 19
     python generate_data.py
 
 2.  Upload the resulting `cricket_data.csv` to Google Looker Studio.
+
 3.  Create charts based on the `Runs_Scored` and `Team` metrics.
